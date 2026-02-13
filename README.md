@@ -7,6 +7,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/bibhash15/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
@@ -40,8 +41,10 @@ My leetcode solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bibhash15/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bibhash15/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
