@@ -13,6 +13,7 @@ My leetcode solutions
 | [0263-ugly-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/bibhash15/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bibhash15/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -22,6 +23,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bibhash15/Leetcode-solutions/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bibhash15/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
