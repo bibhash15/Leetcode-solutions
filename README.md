@@ -13,6 +13,7 @@ My leetcode solutions
 | [0263-ugly-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/bibhash15/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [2235-add-two-integers](https://github.com/bibhash15/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bibhash15/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
