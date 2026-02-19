@@ -19,6 +19,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bibhash15/Leetcode-solutions/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
@@ -43,6 +44,7 @@ My leetcode solutions
 | [0001-two-sum](https://github.com/bibhash15/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bibhash15/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0867-transpose-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1470-shuffle-the-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -64,4 +66,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/bibhash15/Leetcode-solutions/tree/master/0709-to-lower-case) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
