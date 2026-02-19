@@ -44,6 +44,7 @@ My leetcode solutions
 | [0001-two-sum](https://github.com/bibhash15/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bibhash15/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0867-transpose-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1470-shuffle-the-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/bibhash15/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -72,4 +73,8 @@ My leetcode solutions
 | ------- |
 | [0867-transpose-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/bibhash15/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
