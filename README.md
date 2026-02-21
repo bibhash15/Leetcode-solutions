@@ -13,6 +13,7 @@ My leetcode solutions
 | [0202-happy-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/bibhash15/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/bibhash15/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/bibhash15/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
@@ -89,5 +90,6 @@ My leetcode solutions
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0367-valid-perfect-square](https://github.com/bibhash15/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
