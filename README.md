@@ -7,6 +7,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/bibhash15/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/bibhash15/Leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0202-happy-number) |
@@ -31,6 +32,7 @@ My leetcode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bibhash15/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -39,6 +41,7 @@ My leetcode solutions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bibhash15/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
