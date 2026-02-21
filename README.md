@@ -13,6 +13,7 @@ My leetcode solutions
 | [0202-happy-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/bibhash15/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0263-ugly-number) |
+| [0507-perfect-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/bibhash15/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bibhash15/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
