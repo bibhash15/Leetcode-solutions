@@ -7,6 +7,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/bibhash15/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/bibhash15/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/bibhash15/Leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -53,6 +54,7 @@ My leetcode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bibhash15/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/bibhash15/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/bibhash15/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0867-transpose-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -86,6 +88,7 @@ My leetcode solutions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bibhash15/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/bibhash15/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
