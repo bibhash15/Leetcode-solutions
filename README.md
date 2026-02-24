@@ -20,6 +20,7 @@ My leetcode solutions
 | [0836-rectangle-overlap](https://github.com/bibhash15/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bibhash15/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/bibhash15/Leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bibhash15/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
@@ -72,6 +73,7 @@ My leetcode solutions
 | [0027-remove-element](https://github.com/bibhash15/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0202-happy-number) |
+| [2396-strictly-palindromic-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,4 +104,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
