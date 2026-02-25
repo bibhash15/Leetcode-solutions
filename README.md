@@ -18,6 +18,7 @@ My leetcode solutions
 | [0507-perfect-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/bibhash15/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [0877-stone-game](https://github.com/bibhash15/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bibhash15/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/bibhash15/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
@@ -39,6 +40,7 @@ My leetcode solutions
 | ------- |
 | [0070-climbing-stairs](https://github.com/bibhash15/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/bibhash15/Leetcode-solutions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +62,7 @@ My leetcode solutions
 | [0189-rotate-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/bibhash15/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0867-transpose-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/bibhash15/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bibhash15/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -110,4 +113,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/bibhash15/Leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
