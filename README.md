@@ -8,6 +8,7 @@ My leetcode solutions
 | ------- |
 | [0009-palindrome-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/bibhash15/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/bibhash15/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/bibhash15/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/bibhash15/Leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -60,6 +61,7 @@ My leetcode solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/bibhash15/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/bibhash15/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/bibhash15/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/bibhash15/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
