@@ -14,6 +14,7 @@ My leetcode solutions
 | [0202-happy-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/bibhash15/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/bibhash15/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -60,6 +61,7 @@ My leetcode solutions
 | [0035-search-insert-position](https://github.com/bibhash15/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/bibhash15/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/bibhash15/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0867-transpose-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/bibhash15/Leetcode-solutions/tree/master/0877-stone-game) |
@@ -83,6 +85,7 @@ My leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/bibhash15/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Geometry
 |  |
 | ------- |
@@ -103,6 +106,7 @@ My leetcode solutions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/bibhash15/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/bibhash15/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
@@ -117,4 +121,12 @@ My leetcode solutions
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/bibhash15/Leetcode-solutions/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
