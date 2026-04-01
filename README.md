@@ -65,6 +65,7 @@ My leetcode solutions
 | [0048-rotate-image](https://github.com/bibhash15/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/bibhash15/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/bibhash15/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -115,6 +116,7 @@ My leetcode solutions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/bibhash15/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/bibhash15/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
