@@ -68,6 +68,7 @@ My leetcode solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/bibhash15/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/bibhash15/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/bibhash15/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
@@ -125,6 +126,7 @@ My leetcode solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/bibhash15/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Brainteaser
 |  |
