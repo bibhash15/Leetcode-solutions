@@ -65,6 +65,7 @@ My leetcode solutions
 | [0048-rotate-image](https://github.com/bibhash15/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/bibhash15/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/bibhash15/Leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -139,6 +140,7 @@ My leetcode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
