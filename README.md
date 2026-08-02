@@ -28,6 +28,7 @@ My leetcode solutions
 | [2396-strictly-palindromic-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bibhash15/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3945-digit-frequency-score](https://github.com/bibhash15/Leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
@@ -100,6 +101,7 @@ My leetcode solutions
 | [0202-happy-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/bibhash15/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
+| [3945-digit-frequency-score](https://github.com/bibhash15/Leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Geometry
 |  |
 | ------- |
