@@ -27,6 +27,7 @@ My leetcode solutions
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bibhash15/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/bibhash15/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [2427-number-of-common-factors](https://github.com/bibhash15/Leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/bibhash15/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bibhash15/Leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -45,6 +46,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bibhash15/Leetcode-solutions/tree/master/0258-add-digits) |
+| [2427-number-of-common-factors](https://github.com/bibhash15/Leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bibhash15/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -157,4 +159,16 @@ My leetcode solutions
 | [0217-contains-duplicate](https://github.com/bibhash15/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bibhash15/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/bibhash15/Leetcode-solutions/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/bibhash15/Leetcode-solutions/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/bibhash15/Leetcode-solutions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
