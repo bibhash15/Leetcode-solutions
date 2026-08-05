@@ -30,6 +30,7 @@ My leetcode solutions
 | [2396-strictly-palindromic-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2427-number-of-common-factors](https://github.com/bibhash15/Leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/bibhash15/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/bibhash15/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/bibhash15/Leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/3099-harshad-number) |
@@ -141,6 +142,7 @@ My leetcode solutions
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/bibhash15/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/bibhash15/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 ## Brainteaser
 |  |
 | ------- |
