@@ -120,6 +120,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/bibhash15/Leetcode-solutions/tree/master/0709-to-lower-case) |
+| [3110-score-of-a-string](https://github.com/bibhash15/Leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Matrix
 |  |
 | ------- |
