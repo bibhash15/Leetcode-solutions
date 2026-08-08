@@ -83,6 +83,7 @@ My leetcode solutions
 | [0217-contains-duplicate](https://github.com/bibhash15/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/bibhash15/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/bibhash15/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/bibhash15/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bibhash15/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -103,6 +104,7 @@ My leetcode solutions
 | [0088-merge-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0455-assign-cookies](https://github.com/bibhash15/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2396-strictly-palindromic-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Hash Table
 |  |
@@ -164,6 +166,7 @@ My leetcode solutions
 | [0088-merge-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/bibhash15/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/bibhash15/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bibhash15/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Enumeration
 |  |
@@ -177,4 +180,12 @@ My leetcode solutions
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/bibhash15/Leetcode-solutions/tree/master/2427-number-of-common-factors) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/bibhash15/Leetcode-solutions/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/bibhash15/Leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
