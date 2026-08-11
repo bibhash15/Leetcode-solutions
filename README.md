@@ -99,6 +99,7 @@ My leetcode solutions
 | [1572-matrix-diagonal-sum](https://github.com/bibhash15/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3467-transform-array-by-parity](https://github.com/bibhash15/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bibhash15/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -178,6 +179,7 @@ My leetcode solutions
 | [0414-third-maximum-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/bibhash15/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bibhash15/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3467-transform-array-by-parity](https://github.com/bibhash15/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Enumeration
 |  |
 | ------- |
@@ -198,4 +200,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/bibhash15/Leetcode-solutions/tree/master/0455-assign-cookies) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/bibhash15/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
