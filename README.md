@@ -46,6 +46,7 @@ My leetcode solutions
 | [0566-reshape-the-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3701-compute-alternating-sum](https://github.com/bibhash15/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -101,6 +102,7 @@ My leetcode solutions
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3467-transform-array-by-parity](https://github.com/bibhash15/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bibhash15/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3701-compute-alternating-sum](https://github.com/bibhash15/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
