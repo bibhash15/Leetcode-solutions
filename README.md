@@ -17,6 +17,7 @@ My leetcode solutions
 | [0202-happy-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/bibhash15/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/bibhash15/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/bibhash15/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0507-perfect-number) |
@@ -59,6 +60,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bibhash15/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0264-ugly-number-ii](https://github.com/bibhash15/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0509-fibonacci-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/bibhash15/Leetcode-solutions/tree/master/0877-stone-game) |
 ## Recursion
@@ -124,6 +126,7 @@ My leetcode solutions
 | [0001-two-sum](https://github.com/bibhash15/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/bibhash15/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0264-ugly-number-ii](https://github.com/bibhash15/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
 | [3945-digit-frequency-score](https://github.com/bibhash15/Leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Geometry
@@ -210,4 +213,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/bibhash15/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/bibhash15/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
