@@ -218,4 +218,16 @@ My leetcode solutions
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/bibhash15/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/bibhash15/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/bibhash15/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/bibhash15/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
