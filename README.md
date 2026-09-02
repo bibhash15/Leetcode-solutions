@@ -88,6 +88,7 @@ My leetcode solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/bibhash15/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/bibhash15/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/bibhash15/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -126,6 +127,7 @@ My leetcode solutions
 | [0001-two-sum](https://github.com/bibhash15/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/bibhash15/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/bibhash15/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/bibhash15/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
 | [3945-digit-frequency-score](https://github.com/bibhash15/Leetcode-solutions/tree/master/3945-digit-frequency-score) |
@@ -230,4 +232,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/bibhash15/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/bibhash15/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
