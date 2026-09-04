@@ -49,6 +49,7 @@ My leetcode solutions
 | [0566-reshape-the-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/bibhash15/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3701-compute-alternating-sum](https://github.com/bibhash15/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
@@ -105,6 +106,7 @@ My leetcode solutions
 | [1480-running-sum-of-1d-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/bibhash15/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/bibhash15/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3467-transform-array-by-parity](https://github.com/bibhash15/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bibhash15/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -120,6 +122,7 @@ My leetcode solutions
 | [0202-happy-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/bibhash15/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/bibhash15/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/bibhash15/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Hash Table
 |  |
