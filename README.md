@@ -104,6 +104,7 @@ My leetcode solutions
 | [0877-stone-game](https://github.com/bibhash15/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bibhash15/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bibhash15/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/bibhash15/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -135,6 +136,7 @@ My leetcode solutions
 | [0219-contains-duplicate-ii](https://github.com/bibhash15/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/bibhash15/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3945-digit-frequency-score](https://github.com/bibhash15/Leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Geometry
 |  |
@@ -196,6 +198,7 @@ My leetcode solutions
 | [0414-third-maximum-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/bibhash15/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bibhash15/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3467-transform-array-by-parity](https://github.com/bibhash15/Leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Enumeration
 |  |
@@ -245,4 +248,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bibhash15/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
