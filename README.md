@@ -94,6 +94,7 @@ My leetcode solutions
 | [0219-contains-duplicate-ii](https://github.com/bibhash15/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/bibhash15/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/bibhash15/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/bibhash15/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/bibhash15/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -123,6 +124,7 @@ My leetcode solutions
 | [0151-reverse-words-in-a-string](https://github.com/bibhash15/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/bibhash15/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bibhash15/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/bibhash15/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bibhash15/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/bibhash15/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bibhash15/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
